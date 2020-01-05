@@ -6,4 +6,5 @@ img: ./DSC_0740.JPG # Add image post (optional)
 tags: [Lego] # add tag
 ---
 
-Story goes here.
+These models can go everywhere!
+But the red one can fly.
